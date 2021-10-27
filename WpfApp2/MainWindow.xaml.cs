@@ -45,7 +45,7 @@ namespace WpfApp2
             }
             else
             {
-                textBoxName.Text = "";
+                textBoxName.Text = "123";
                 comboBox_GenreFilms.SelectedIndex = -1;
             }
         }
